@@ -6,7 +6,7 @@ uvicorn api_modelo_salario:app --reload
 </p>
 
 <p>
-2. Ainda no pipenv shell, utilizar o comando:
+2. Ainda no pipenv shell, utilizar o comando: <br/>
 streamlit run app_streamlit_salario.py 
 </p>
 
